@@ -58,5 +58,8 @@ Admins can see the current status of each seat â€” whether booked or available â
    - Access it via `http://localhost/bus.php`.
 
 ---
+## OUTPUT OF THE WEBSITE
+
+
 
 
