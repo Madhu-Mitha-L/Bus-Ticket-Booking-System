@@ -59,6 +59,10 @@ Admins can see the current status of each seat â€” whether booked or available â
 
 ---
 ## OUTPUT OF THE WEBSITE
+<img width="1885" height="920" alt="image" src="https://github.com/user-attachments/assets/813d02fa-8b2d-4f54-bb2b-6c65149d44d4" />
+<img width="1883" height="888" alt="image" src="https://github.com/user-attachments/assets/a9cfcd99-0fee-4b50-8c66-eed8d578e909" />
+<img width="1877" height="898" alt="image" src="https://github.com/user-attachments/assets/fd1b69b7-45ce-4a04-bc66-6f73b97d8351" />
+
 
 
 
